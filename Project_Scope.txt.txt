@@ -1,0 +1,8 @@
+BURGER SHOP - project explanation 
+
+Create and simulate a burger shop with the following attributes and actions
+- define a basic meal type with all sides and drinks predefined and included
+- define a deluxe meal type which has all the toppings included plus large sides and medium drinks
+- let the user define the meal by choosing the type of burger, up to 3 toppings a side, side size, drink and drink size
+
+- at the end of the order show to the customer the bill with all included extra, their price and total meal price
